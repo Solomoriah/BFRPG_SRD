@@ -303,7 +303,7 @@ a{
 .monster, .spell {
 	zoom: 1;
 	vertical-align: top;
-	width: 30em;
+	max-width: 30em;
 	margin: 20px 20px 20px 0;
 }
 
@@ -312,7 +312,7 @@ a{
 }
 
 .spell-lists table {
-    width: 30em;
+    max-width: 30em;
 }
 
 .spell-lists table td, .monster table td {
